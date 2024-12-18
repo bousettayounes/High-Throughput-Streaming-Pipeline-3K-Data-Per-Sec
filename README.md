@@ -1,4 +1,4 @@
-# High-Throughput Streaming Pipeline: 3K Data Per-Sec
+# High-Throughput Streaming Pipeline: 3K Records per Second
 
 This project demonstrates a real-time streaming data pipeline designed to handle and process transactional data efficiently.
 The pipeline incorporates modern tools and technologies like Kafka, Schema Registry, Spark, and PostgreSQL to process, aggregate, and store data for real-time updates and analysis.
